@@ -8,6 +8,7 @@
 
 //= require spiceHTML5/spicedataview
 //= require spiceHTML5/spicetype
+//= require spiceHTML5/spicearraybuffer
 //= require spiceHTML5/spicemsg
 //= require spiceHTML5/wire
 //= require spiceHTML5/spiceconn
